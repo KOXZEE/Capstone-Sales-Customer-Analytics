@@ -1,11 +1,11 @@
 # Capstone-Sales-Customer-Analytics
 Interactive sales and customer analytics dashboard built for a capstone project. Includes data cleaning, transformation, exploratory analysis, and visualizations that highlight trends and support data-driven business decisions.
-# 📊 Sales & Customer Analytics Dashboard
+ Sales & Customer Analytics Dashboard
 A capstone project focused on analyzing sales performance and customer behavior to support data-driven business decisions. This repository includes data cleaning, exploratory analysis, and dashboard visualizations.
 
 ---
 
-## 🚀 Project Goals
+ Project Goals
 - Transform raw sales data into structured, analysis-ready datasets  
 - Identify revenue trends, customer segments, and performance drivers  
 - Create interactive dashboards for business stakeholders  
@@ -13,7 +13,7 @@ A capstone project focused on analyzing sales performance and customer behavior 
 
 ---
 
-## 🛠️ Tools & Technologies
+Tools & Technologies
 **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 **SQL:** Data extraction and filtering  
 **Visualization:** Power BI or Tableau  
@@ -21,7 +21,7 @@ A capstone project focused on analyzing sales performance and customer behavior 
 
 ---
 
-## 🔍 Key Features
+Key Features
 - **Sales Trend Analysis:** Revenue, profit, product category performance  
 - **Customer Analytics:** Segmentation, repeat purchase behavior  
 - **Operational Insights:** Regional performance, sales channel contribution  
@@ -29,4 +29,4 @@ A capstone project focused on analyzing sales performance and customer behavior 
 
 ---
 
-## 📁 Repository Structure
+Repository Structure
